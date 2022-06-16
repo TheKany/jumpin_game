@@ -34,6 +34,8 @@ https://stupendous-kringle-ee47c2.netlify.app
 사용해볼 예정이다...</br>
 아마 코드가 엄청 하찮을 것 같다..
 
+--------
+
 ### 이미지 출처
 - wood : https://www.pngitem.com/middle/ioToJxh_pixel-art-wood-planks-hd-png-download/
 - rabbit : https://design.tutsplus.com/tutorials/how-to-create-an-animated-pixel-art-video-game-sprite-in-adobe-photoshop--cms-25363
