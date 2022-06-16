@@ -1,0 +1,66 @@
+*, * ::before, *::after {
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+ 
+}
+
+#game-screen {
+  overflow: hidden;
+  position: relative;
+  border: 2px solid black;
+  width: 40rem;
+  height: 200px;
+  background: skyblue;
+}
+
+.score {
+  position: absolute;
+  font-size: 4vmin;
+  right: 1vmin;
+  top: 1vmin;
+}
+
+.start-screen {
+  position: absolute;
+  font-size: 1rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hide {
+  display: none;
+}
+
+.background {
+  --left: 0;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: calc(var(--left) * 1%);
+}
+
+.rabbit {
+  --bottom: 15;
+  position: absolute;
+  left: 1%;
+  height: 20%;
+  bottom: calc(var(--bottom) * 1%);
+}
+
+.wood {
+  --bottom: 14;
+  position: absolute;
+  left: calc(var(--left) * 1%);
+  height: 25%;
+  width: 3%;
+  bottom: 0;
+}
