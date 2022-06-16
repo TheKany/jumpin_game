@@ -1,6 +1,9 @@
 # Rabbit_Jump Game
 ![제목 없음](https://user-images.githubusercontent.com/105787985/174131433-0c1e850d-5dc2-45e8-9951-dd077ac0c49e.jpg)
 
+### url
+https://stupendous-kringle-ee47c2.netlify.app
+
 --------
 
 ## 설명
@@ -31,5 +34,7 @@
 사용해볼 예정이다...</br>
 아마 코드가 엄청 하찮을 것 같다..
 
-
-
+### 이미지 출처
+- wood : https://www.pngitem.com/middle/ioToJxh_pixel-art-wood-planks-hd-png-download/
+- rabbit : https://design.tutsplus.com/tutorials/how-to-create-an-animated-pixel-art-video-game-sprite-in-adobe-photoshop--cms-25363
+- background : https://www.pngitem.com/middle/mwohxm_ground-pixel-art-png-transparent-png/
