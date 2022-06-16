@@ -1,4 +1,6 @@
 # Rabbit_Jump Game
+![제목 없음](https://user-images.githubusercontent.com/105787985/174131433-0c1e850d-5dc2-45e8-9951-dd077ac0c49e.jpg)
+
 --------
 
 ## 설명
